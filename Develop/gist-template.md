@@ -1,11 +1,14 @@
 Regex Tutorial
+
 Regular Expressions are patterns that match a combination of characters in a string.
 JavaScript supports regular expressions mostly for text search and text replacement.
 You can also find and replace a character or sequence of characters within a string.
 They are also frequently used to validate input. This regex matches character information for valid e-mail addresses.
 
 Summary
+
 What is JavaScript RegExs? 
+
 A JavaScript RegEx is a sequence of characters that forms a search pattern. 
 You can define what needs to be searched in a text with the help of regular expressions.
 These expressions can be of any number of characters, be it alphabets, digits or special characters. 
