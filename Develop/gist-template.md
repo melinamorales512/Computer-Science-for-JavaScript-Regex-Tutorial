@@ -36,11 +36,11 @@ The anchors used to contain this regular expression are: ^ to start, and $ to fi
 Quantifiers define the number of occurrences of a string.
 The most commonly used quantifiers are ‘+’, ‘*’ and ‘?’. 
 
- + - Indicates one or more occurrence of the character n 
+ (+) - Indicates one or more occurrence of the character n 
 
- * - Indicates zero or more occurrences of the character n 
+ (*)- Indicates zero or more occurrences of the character n 
 
- ? - Indicates zero or one occurrence of the character n 
+(?) - Indicates zero or one occurrence of the character n 
 
 ### Grouping Constructs
 There are three groups being captured in this example. Group #1 is the username of the e-mail account [a-z0-9_\.-].
